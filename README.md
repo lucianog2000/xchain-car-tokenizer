@@ -1,1 +1,1 @@
-# xchain-dex
+# xchain-mint
